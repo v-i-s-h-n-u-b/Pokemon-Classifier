@@ -1,5 +1,6 @@
 # Pokemon-Classifier
 * Classifier to distinguish between Legendary and Non-Legendary Pok ́emon on a dataset with around 800 or more entries.
+* Highlights the importance of different features when it comes to legendary pokemon.
 * Implemented and compared the following classification models: Random Forest, XGBoost, AdaBoost
   with feature scaling and hyperparameter optimization using a grid search.
   * hyperparameters to train the XGBoost classifier: n_estimators'
