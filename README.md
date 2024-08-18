@@ -9,7 +9,7 @@
     ( 'base_estimator__min_samples_leaf' not used )
 * Also implemented is a Neural Network to highlight they're limitations when it comes to classification problems.
 
-The accuracies acieved are ranked as follows : XGBoost (95%) > Random Forest (93.5%) > AdaBoost (93%)  
+The accuracies acieved are ranked as follows : XGBoost (95%) > Random Forest (93.5%) > AdaBoost (93%)  > Neual Network model (91%)
 
 
 NOTE: Scroll down past the training section of the XGB and AdaBoost Classifiers to view the remaining code
